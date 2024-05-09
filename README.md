@@ -1,4 +1,4 @@
-# P3 - Blockchain and Merkle Tree Implementation
+# Blockchain and Merkle Tree Implementation
 
 This project represents a sophisticated and professional implementation of Blockchain and Merkle Tree data structures, meticulously designed in Java. It is engineered to efficiently read transactions from a designated file, strategically add them to a priority queue based on predefined criteria, and subsequently incorporate them into a robust blockchain.
 
