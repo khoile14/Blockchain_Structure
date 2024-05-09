@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.err.println("Usage: java P3 <filename> <cumulative fee threshold>");
+            System.err.println("Usage: java Main <filename> <cumulative fee threshold>");
             return;
         }
 
